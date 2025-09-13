@@ -105,7 +105,7 @@ if __name__ == '__main__':
 Мы попадаем в профиль модератора и получаем первый флаг:
 <img width="1919" height="795" alt="image" src="https://github.com/user-attachments/assets/6f58a1e6-bc24-404c-bb09-e2db847debc3" />
 
-## Flag 2
+### Flag 2
 
 Заходим в чаты и видим чат с админом
 <img width="1914" height="893" alt="image" src="https://github.com/user-attachments/assets/d39c24d3-e06c-4d91-9ccb-8d5c1e909bfe" />
